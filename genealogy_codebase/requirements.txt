@@ -1,0 +1,5 @@
+matplotlib==3.3.2
+networkx==2.5
+seaborn==0.11.0
+pmaw==3.0.0
+pygraphviz==1.7
